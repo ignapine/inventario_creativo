@@ -1,0 +1,17 @@
+codigo,nombre,categoria,precio,stock
+101,Yerba 1kg,Almacén,3500.0,12
+102,Detergente 750ml,Limpieza,1800.0,4
+103,Arroz 1kg,Almacén,1200.0,30
+104,Fideos 500g,Almacén,950.0,45
+105,Aceite 900ml,Almacén,2800.0,18
+106,Lavandina 1L,Limpieza,900.0,3
+107,Jabón en polvo 800g,Limpieza,3200.0,10
+108,Gaseosa 2.25L,Bebidas,2400.0,24
+109,Agua mineral 2L,Bebidas,1100.0,36
+110,Cerveza lata 473ml,Bebidas,1500.0,2
+111,Galletitas dulces,Snacks,1300.0,20
+112,Papas fritas 150g,Snacks,2100.0,8
+113,Shampoo 400ml,Higiene,3900.0,6
+114,Jabón de tocador,Higiene,800.0,40
+115,Papel higiénico x4,Higiene,2700.0,15
+116,Leche entera 1L,Lácteos,1600.0,0
